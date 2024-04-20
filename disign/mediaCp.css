@@ -1,10 +1,14 @@
-@media (max-width: 360px) {
+@media (max-width: 340px) {
   .c-order {
-    margin-left: 1rem;
+    margin-left: 0;
   }
 
   .home {
-    height: 75vh;
+    height: 60vh;
+  }
+
+  .btn-menu {
+    font-size: 0.8rem;
   }
 
   .carousel {
@@ -34,7 +38,7 @@
   }
 
   .burger-item {
-    margin-left: 5rem;
+    margin-left: 3.7rem;
     padding: 0.5em 0.5rem;
     width: 205px;
     border-radius: 8px;
