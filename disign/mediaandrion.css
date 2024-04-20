@@ -1,0 +1,62 @@
+@media (max-width: 320px) {
+  .c-order {
+    margin-left: 0;
+    padding: 0.3rem;
+  }
+
+  .c-brand-logo {
+    width: 100px;
+  }
+
+  .btn-menu {
+    font-size: 0.8rem;
+  }
+
+  .home {
+    height: 67vh;
+  }
+
+  .carousel {
+    padding-top: 0.6rem;
+  }
+
+  .btn-home {
+    margin: 0 0.5rem;
+    padding: 0 2rem;
+  }
+
+  .home-text {
+    padding-top: 0.5rem;
+  }
+
+  .item {
+    padding: 0;
+  }
+
+  .burger-item {
+  }
+
+  .head-item {
+    margin-top: 3rem;
+    padding: 1rem 0;
+    background-color: #eab676;
+  }
+
+  .burger-item {
+    margin-left: 3.5rem;
+    padding: 0.5em 0.5rem;
+    width: 205px;
+    border-radius: 8px;
+    background-color: #eeeee4;
+    box-shadow: 1px 1px 9px;
+  }
+
+  .section-input input {
+    padding: 0.4rem;
+    width: 15rem;
+  }
+
+  .btn-login-modal {
+    margin-right: 5rem;
+  }
+}
