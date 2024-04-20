@@ -51,6 +51,10 @@
     box-shadow: 1px 1px 9px;
   }
 
+  .login-text {
+    margin-left: 5rem;
+  }
+
   .section-input input {
     padding: 0.4rem;
     width: 15rem;
@@ -58,5 +62,9 @@
 
   .btn-login-modal {
     margin-right: 5rem;
+  }
+
+  .fot-img {
+    width: 190px;
   }
 }

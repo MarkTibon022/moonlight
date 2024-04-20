@@ -103,8 +103,12 @@ body {
   width: 20rem;
 }
 
+.login-text {
+  margin-left: 10rem;
+}
+
 .btn-login-modal {
-  margin-right: 10rem;
+  margin-right: 12rem;
 }
 /* signup modal */
 
@@ -113,4 +117,18 @@ body {
 
 .signup input {
   margin: 0.3rem 0;
+}
+
+/* contact */
+
+.contact {
+  background-color: #1c1c1c;
+}
+
+.img-fot {
+  color: white;
+}
+
+.fot-img {
+  width: 250px;
 }
