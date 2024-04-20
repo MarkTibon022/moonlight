@@ -1,0 +1,116 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  font-family: sans-serif;
+}
+
+p {
+  margin: 0;
+}
+
+body {
+  background-color: #d9d5ca;
+}
+
+.c-brand-logo {
+  width: 150px;
+}
+
+.nav-link {
+  font-weight: 700;
+}
+
+.c-order {
+  margin-left: 5rem;
+  border-radius: 8px;
+  padding: 0.3rem;
+  background-color: #c92a02;
+}
+/* home */
+.home {
+  height: 40vh;
+  text-align: center;
+  padding: 1rem;
+  background: linear-gradient(45deg, #7d7472, black);
+}
+
+.home-img {
+  width: 350px;
+}
+
+.btn-home {
+  margin: 0 0.5rem;
+  padding: 0.5rem 2rem;
+}
+
+.home-text {
+  padding-top: 3rem;
+}
+/* item */
+.item {
+  padding-top: 3rem;
+}
+
+.head-item {
+  padding: 1rem 0;
+  background-color: #eab676;
+}
+
+.head-item h2 {
+  margin-left: 2rem;
+}
+
+.product {
+  padding-top: 1rem;
+}
+
+.product-img {
+}
+
+.burger-item {
+  margin: 17px;
+  padding: 1em 1rem;
+  width: 250px;
+  border-radius: 8px;
+  background-color: #eeeee4;
+  box-shadow: 1px 1px 9px;
+}
+
+.info {
+  text-align: center;
+  margin-top: 1rem;
+}
+
+.info p {
+  margin-bottom: 0.5rem;
+  font-weight: 700;
+}
+
+.info a {
+  width: 10rem;
+}
+
+/* login modal */
+
+.section-input {
+  text-align: center;
+  margin: 1rem;
+}
+
+.section-input input {
+  padding: 0.4rem;
+  width: 20rem;
+}
+
+.btn-login-modal {
+  margin-right: 10rem;
+}
+/* signup modal */
+
+.signup {
+}
+
+.signup input {
+  margin: 0.3rem 0;
+}

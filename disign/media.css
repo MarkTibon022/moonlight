@@ -1,0 +1,39 @@
+@media (max-width: 480px) {
+  .c-order {
+    margin-left: 8rem;
+  }
+
+  .carousel {
+    padding-top: 0.6rem;
+  }
+
+  .btn-home {
+    margin: 0 0.5rem;
+    padding: 0 2rem;
+  }
+
+  .home-text {
+    padding-top: 0.5rem;
+  }
+
+  .item {
+    padding-top: 8.5rem;
+  }
+
+  .burger-item {
+  }
+
+  .head-item {
+    padding: 1rem 0;
+    background-color: #eab676;
+  }
+
+  .burger-item {
+    margin: 17px;
+    padding: 1em 1rem;
+    width: 205px;
+    border-radius: 8px;
+    background-color: #eeeee4;
+    box-shadow: 1px 1px 9px;
+  }
+}
